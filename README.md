@@ -1,5 +1,6 @@
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
-
+# NAME: SARISH VARSHAN V
+# REG NO: 212223230196
 
 ### AIM:
 To implement ARMA model in python.
@@ -101,7 +102,7 @@ plot_pacf(ARMA_2)
 plt.show()
 ~~~
 
-OUTPUT:
+### OUTPUT:
 Original Data:
 <img width="1973" height="1070" alt="Screenshot 2025-09-30 085246" src="https://github.com/user-attachments/assets/e8caad19-7a1b-4d3e-929d-a85ac4226e03" />
 
@@ -129,5 +130,5 @@ Partial Autocorrelation:
 Autocorrelation:
 <img width="2003" height="1044" alt="Screenshot 2025-09-30 085545" src="https://github.com/user-attachments/assets/ec7e6d5b-4610-472a-8506-cd674ca192bf" />
 
-RESULT:
+### RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
